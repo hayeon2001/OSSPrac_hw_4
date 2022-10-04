@@ -1,0 +1,6 @@
+a=str(input("이름을 입력하세요: "))
+b=str(input("학번을 입력하세요: "))
+print()
+print("<출력>")
+print("이름:",a)
+print("학번:",b)
